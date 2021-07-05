@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = x.chou@gmx.de
+	name = XueYing Chou
